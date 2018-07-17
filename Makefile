@@ -1,0 +1,4 @@
+
+LDLIBS += -lusb
+
+all : wwsr
